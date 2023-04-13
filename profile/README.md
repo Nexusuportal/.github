@@ -1,3 +1,12 @@
+     ||\   ||`                                                                       ||            '||` 
+     ||\\  ||                                                                        ||             ||  
+     || \\ ||  .|''|, \\  // '||  ||` ('''' '||  ||` '||''|, '||''|, .|''|, '||''| ''||''   '''|.   ||  
+     ||  \\||  ||..||   ><    ||  ||   `'')  ||  ||   ||  ||  ||  || ||  ||  ||      ||    .|''||   ||  
+    .||   \||. `|...  //  \\  `|..'|. `...'  `|..'|.  ||..|'  ||..|' `|..|' .||.     `|..' `|..||. .||. 
+                                                  ||      ||                                        
+                                                 .||     .||                              
+
 # NEXUSuportal
-A random tech group. I'll add more later.
-This team eats cereal for breakfast
+5 Luke's Tech Group. 
+
+This team eats cereal for breakfast.
