@@ -1,2 +1,2 @@
-# .github
-GitHub docs for this organisation.
+# NEXUSuportal
+A random tech group. I'll add more later.
