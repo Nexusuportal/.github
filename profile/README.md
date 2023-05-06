@@ -7,6 +7,4 @@
                                                  .||     .||                              
 
 # NEXUSuportal
-5 Luke's Tech Group. 
-
-This team eats cereal for breakfast.
+Bots that work for you.
